@@ -11,7 +11,8 @@
     "ios",
     "README.*",
     "package.json",
-    "LICENSE"
+    "LICENSE",
+    "RNIotWifi.podspec"
   ],
   "repository": {
     "type": "git",
